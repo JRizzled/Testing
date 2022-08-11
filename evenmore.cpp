@@ -39,6 +39,7 @@ void foo(){
 }
 int main(){
 	std::cout << "Hi my name is bitch fuck!" << std::endl;
+	std::cout << "Bitch fuck is a gay name." << std::endl;
 	std::vector<Foo> bar(5);
 
 }
