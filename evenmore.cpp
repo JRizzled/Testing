@@ -38,7 +38,8 @@ void foo(){
 	B b;
 }
 int main(){
-	 std::vector<Foo> bar(5);
+	std::cout << "Hi my name is bitch fuck!" << std::endl;
+	std::vector<Foo> bar(5);
 
 }
 
